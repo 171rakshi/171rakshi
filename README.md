@@ -8,7 +8,7 @@ I'm a passionate Full Stack Developer with a strong interest in building scalabl
 
 <img width="400" height="300" src="https://www.bing.com/th/id/OGC.824c21b4607edc2c41e7fbe3037b5552?o=7&pid=1.7&rm=3&rurl=https%3A%2F%2Fcdnb.artstation.com%2Fp%2Fassets%2Fimages%2Fimages%2F028%2F991%2F999%2Foriginal%2Fanna-havrylyukh-.gif%3F1596125112&ehk=IMj5ugY42kIfF3Ryng5AwssXOhtufphfzAt6H%2FDCH1E%3D">
 
----
+
 
 ## 🚀 Projects
 
@@ -20,7 +20,7 @@ An AI-powered web application that converts web content into summarized text and
 
 Currently working on full-stack web applications using the MERN stack, developing scalable REST APIs, responsive user interfaces, authentication systems, and efficient MongoDB database solutions.
 
----
+
 
 ## 🌱 Currently Working On
 
@@ -30,7 +30,7 @@ Currently working on full-stack web applications using the MERN stack, developin
 * Creating responsive user interfaces using React.js
 * MongoDB database design and optimization
 
----
+
 
 ## 💻 Tech Stack
 
@@ -70,7 +70,6 @@ Currently working on full-stack web applications using the MERN stack, developin
 
 * REST APIs
 
----
 
 ## 💬 Ask Me About
 
@@ -86,7 +85,7 @@ Currently working on full-stack web applications using the MERN stack, developin
 * SQL
 * REST APIs
 
----
+
 
 ## 🤝 Open To
 
@@ -97,7 +96,7 @@ Currently working on full-stack web applications using the MERN stack, developin
 * Open Source Contributions
 * Collaborating on Innovative Tech Projects
 
----
+
 
 ## 📫 Let's Connect
 
@@ -105,6 +104,3 @@ Currently working on full-stack web applications using the MERN stack, developin
 
 💼 **LinkedIn:** **https://www.linkedin.com/in/rakshitha-e-08070129a**
 
----
-
-⭐ **Thanks for visiting my GitHub profile! I'm always excited to learn, collaborate, and build impactful software. Feel free to connect with me!**
